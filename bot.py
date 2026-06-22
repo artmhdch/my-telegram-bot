@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import yt_dlp
 
 # ضع التوكن الخاص ببوتك هنا (الذي أخذته من BotFather)
-TOKEN = "ضع_التوكن_الخاص_ببك_هنا"
+TOKEN = "8954382291:AAHrI6Obji8Rhua9M00Skw5c038rLVtOkfc"
 
 # دالة الترحيب عند الضغط على /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
